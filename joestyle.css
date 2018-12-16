@@ -1,13 +1,10 @@
-body {
-  background-color: #358455;
-}
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #F3F3F3;
+  background-color: gray;
 }
 
 li {
@@ -41,7 +38,10 @@ img {
 
 
 
+
 p{
   font-family: "Times New Roman", Times, serif;
-  font-size: 20px
+  font-size: 20px;
+
 }
+
