@@ -1,0 +1,47 @@
+body {
+  background-color: #358455;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F3F3F3;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #00A6F0;
+}
+
+.active {
+  background-color: #016CA2;
+  color:white;
+}
+
+img {
+  float:left;
+  width: 25%;
+  height: 300px;
+  border-radius: 50%;
+}
+
+
+
+p{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px
+}
